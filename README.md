@@ -1,28 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia
 
-## Getting Started
+Promptopia is a full-stack web application built with Next.js that allows users to sign in or sign out using their Google account. Users can explore prompts, view other users' profiles, and perform various actions such as creating, editing, and deleting prompts.
+[Live Website](https://promptopia-inlpuiiey-radhey30.vercel.app/)
 
-First, run the development server:
+## Technologies
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is made with Next.js, a React framework that enables server-side rendering and static site generation. It also uses MongoDB for the database, NextAuth.js for authentication, and Tailwind CSS for styling.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Users can sign in or sign out using Google.
+- Users can create prompts with a prompt and a tag.
+- Users can edit or delete their own prompts.
+- Users can view all the prompts on the home page, or filter them by tag or username.
+- Users can view the details of a prompt, including the creator's profile.
+- Users can view other users' profiles showing their name, email, and prompts.
