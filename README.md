@@ -1,6 +1,5 @@
 # Promptopia
-
-Promptopia is a full-stack web application built with Next.js that allows users to sign in or sign out using their Google account. Users can explore prompts, view other users' profiles, and perform various actions such as creating, editing, and deleting prompts.
+Promptopia is a full-stack web application built with Next.js that allows users to sign in or sign out using their Google account. Users can explore prompts, view other users' profiles, and perform various actions such as creating, editing, and deleting prompts. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).  
 [Live Website](https://promptopia-inlpuiiey-radhey30.vercel.app/)
 
 ## Technologies
